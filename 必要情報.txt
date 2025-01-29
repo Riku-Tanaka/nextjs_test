@@ -1,0 +1,11 @@
+API系
+Postman
+
+Anaconda (Anaconda prompt)
+Pycharm
+
+変更前のNodeバージョン
+You are using Node.js 18.16.0.
+
+
+npm run dev
